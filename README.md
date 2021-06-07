@@ -12,18 +12,18 @@ Każde auto ma określoną:
   - i zestaw 5 elementów, które mogą być sprawne lub wymagać naprawy.
 
 3. Naprawa każdego z elementów kosztuje, ale też podnosi wartość samochodu. 
-	- Hamulce - podnoszą wartość auta o 10%
-	- Zawieszenie - podnosi wartość auta o 20%
-	- Silnik - podnosi wartość auta o 100%
-	- Karoseria - podnosi wartość auta o 50%
-	- Skrzynia biegów - 50%
+ - Hamulce - podnoszą wartość auta o 10%
+ - Zawieszenie - podnosi wartość auta o 20%
+ - Silnik - podnosi wartość auta o 100%
+ - Karoseria - podnosi wartość auta o 50%
+ - Skrzynia biegów - 50%
 
 4. Dodatkowo, część samochodów to samochody dostawcze dla których istotny jest rozmiar przestrzeni ładunkowej.
 
 5. Naprawę każdego z elementów możesz zlecić 3 różnym mechanikom. 
-	- Janusz - ma najdroższe ceny ale 100% gwarancję
-	- Marian - bierze zdecydowanie mniej niż Janusz, ale masz 10% szans, że nie uda mu się naprawić samochodu i konieczna będzie interwencja Janusza
-	- Adrian - jest najtańszy, ale masz 20% szans, że nie uda mu się naprawić i 2% szans, że zepsuje coś innego podczas naprawy
+ - Janusz - ma najdroższe ceny ale 100% gwarancję
+ - Marian - bierze zdecydowanie mniej niż Janusz, ale masz 10% szans, że nie uda mu się naprawić samochodu i konieczna będzie interwencja Janusza
+ - Adrian - jest najtańszy, ale masz 20% szans, że nie uda mu się naprawić i 2% szans, że zepsuje coś innego podczas naprawy
 
 6. Koszty napraw powinny zależeć od marki pojazdu i części, która ma zostać naprawiona.
 	
@@ -34,17 +34,17 @@ Każde auto ma określoną:
 9. Niektórych klientów interesują samochody osobowe a innych dostawcze. Każdy klient posiada określoną ilość gotówki, dwie marki pojazdów, które go interesują, niewielka grupa akceptuje zakup uszkodzonego pojazdu, część zgodzi się na niesprawne zawieszenie, ale większość z nich kupi tylko w pełni sprawne auto. Możesz przygotować wcześniej większą listę potencjalnych klientów lub napisać generator.
 
 10. Opcje dostępne dla użytkownika:
-- przeglądaj bazę samochodów do kupienia 
-- kup samochód
-- przeglądaj bazę posiadanych samochodów
-- napraw samochód
-- przejrzyj potencjalnych klientów
-- sprzedaj samochód za określoną cenę potencjalnemu klientowi
-- kup reklamę
-- sprawdź stan konta
-- sprawdź historię transakcji
-- sprawdź historię napraw każdego pojazdu
-- sprawdź sumę kosztów napraw i mycia dla każdego z posiadanych pojazdów
-- 
+ - przeglądaj bazę samochodów do kupienia 
+ - kup samochód
+ - przeglądaj bazę posiadanych samochodów
+ - napraw samochód
+ - przejrzyj potencjalnych klientów
+ - sprzedaj samochód za określoną cenę potencjalnemu klientowi
+ - kup reklamę
+ - sprawdź stan konta
+ - sprawdź historię transakcji
+ - sprawdź historię napraw każdego pojazdu
+ - sprawdź sumę kosztów napraw i mycia dla każdego z posiadanych pojazdów
+
 11. Cel gry
 Podwoić stan konta w jak najmniejszej liczbie ruchów. Jeden ruch to zakup auta/sprzedaż auta/naprawienie jednego elementu/dodanie jednej reklamy. Przeglądanie stanu konta, historii transakcji, baz klientów, posiadanych pojazdów i pojazdów dostępnych do kupienia nie oznacza wykorzystania ruchu.
